@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Gemp מובילה את עולם השיווק הדיגיטלי עם פתרונות social media marketing שמניעים תוצאות אמיתיות. גלה איך אנחנו הופכים עסקים רגילים למותגים חזקים. התחל היום!
+
+### פתרונות
+https://example.com/solutions
+גלה את חבילות ה-digital marketing services המותאמות אישית של Gemp. מאסטרטגיית תוכן ועד ניהול מלא של הרשתות החברתיות — יש לנו פתרון מנצח בדיוק בשבילך. בחר עכשיו!
+
+### תוצאות
+https://example.com/results
+ראה בעצמך איך סוכנות ה-social media marketing שלנו הביאה ללקוחות צמיחה של מאות אחוזים. מקרי בוחן אמיתיים, מספרים מרשימים, והוכחה שהשיווק שלנו עובד. השתכנע בעצמך!
+
+### צור קשר
+https://example.com/contact
+מוכן להפוך את העסק שלך למותג מוביל? צוות המומחים של Gemp בתחום ה-digital marketing services מחכה לך. שלח לנו הודעה עכשיו וקבל ייעוץ ראשוני חינם תוך 24 שעות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
